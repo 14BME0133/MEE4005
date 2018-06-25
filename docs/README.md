@@ -1,3 +1,3 @@
-[DA](docs/DA/1/README.md)
+[DA](/DA/1/README.md)
 
-[BOOKS](docs/textbooks/README.md)
+[BOOKS](/textbooks/README.md)
