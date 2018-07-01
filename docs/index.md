@@ -23,15 +23,20 @@ Free Download Available Here ::	[	0x03	`	MEE4006_ETH_3	  `	](/RES/MEE4006_ETH_3)
 
 
 
-----
+[`Laboratory`](https://14bme0133.github.io/MEE4006L)
+[`Theory`](https://14bme0133.github.io/MEE4006)
 
-[/14BME0133/MEE4005](https://github.com/14BME0133/MEE4005)
-[/14BME0133/MEE4005L](https://github.com/14BME0133/MEE4005L)
-[14BME0133://](https://github.com/14BME0133/)
+
+# [`HOME :: 14BME0133`](https://14bme0133.github.io/)
+
 
 ---
+---
+---
+---
 
-[BOOKS](https://14bme0133.github.io/MEE4006/textbooks/)
+
+| [`$` BOOKS](https://14bme0133.github.io/MEE4006/textbooks/) | [`$` RESOURCES](https://14bme0133.github.io/MEE4006//) | [`$` DA1](https://14bme0133.github.io/MEE4006/DA/1/) | [`$` DA2](https://14bme0133.github.io/MEE4006/DA/2/)  |
 
 ---
 
