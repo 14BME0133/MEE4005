@@ -4,7 +4,7 @@ DA1 [file](/da1.jpg) - [`Download`](/da1.pdf)
 
 [DA](/DA/1/README.md)
 
-[BOOKS](/textbooks/README.md)
+[BOOKS](/textbooks/)
 
 ---
 
