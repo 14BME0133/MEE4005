@@ -13,7 +13,7 @@ Experiments conducted in the T. sanathanan Computing Facility, SMEC
 ## `Laboratory` Computaional Fluid Dynamics
 
  - Andy's [`book`](a1.pdf)
- - The [Book 2](m1.pdf)
+ - The indic [`Book 2`](m1.pdf)
 
 ----
 ----
