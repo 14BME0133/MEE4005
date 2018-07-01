@@ -13,13 +13,13 @@ Lectures conducted in the Main Building, SMEC, VIT University
 ## `Theory` Computaional Fluid Dynamics
 
 
-Free Download Available Here ::	[	0x00	`	MEE4006_ELA_1 	`	]	(	MEE4006_ELA_1.pdf	)
+Free Download Available Here ::	[	0x00	`	MEE4006_ELA_1 	`	](MEE4006_ELA_1.pdf) Get it Now!
 
-Free Download Available Here ::	[	0x01	`	MEE4006_ETH_1 	`	]	(	MEE4006_ETH_1.pdf	)
+Free Download Available Here ::	[	0x01	`	MEE4006_ETH_1 	`	](MEE4006_ETH_1.pdf) Get it Now!
 
-Free Download Available Here ::	[	0x02	`	MEE4006_ETH_2 	`	]	(	MEE4006_ETH_2.pdf	)
+Free Download Available Here ::	[	0x02	`	MEE4006_ETH_2 	`	](MEE4006_ETH_2.pdf) Get it Now!
 
-Free Download Available Here ::	[	0x03	`	MEE4006_ETH_3	  `	]	(	MEE4006_ETH_3.pdf	)
+Free Download Available Here ::	[	0x03	`	MEE4006_ETH_3	  `	](MEE4006_ETH_3.pdf) Get it Now!
 
 
 
