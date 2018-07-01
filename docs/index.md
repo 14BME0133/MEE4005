@@ -7,15 +7,18 @@
 
 ---
 
-Experiments conducted in the T. sanathanan Computing Facility, SMEC
+Lectures conducted in the Main Building, SMEC, VIT University
 
 
-## `Laboratory` Computaional Fluid Dynamics
+## `Theory` Computaional Fluid Dynamics
 
 
 Free Download Available Here ::	[	0x00	`	MEE4006_ELA_1 	`	]	(	MEE4006_ELA_1.pdf	)
+
 Free Download Available Here ::	[	0x01	`	MEE4006_ETH_1 	`	]	(	MEE4006_ETH_1.pdf	)
+
 Free Download Available Here ::	[	0x02	`	MEE4006_ETH_2 	`	]	(	MEE4006_ETH_2.pdf	)
+
 Free Download Available Here ::	[	0x03	`	MEE4006_ETH_3	  `	]	(	MEE4006_ETH_3.pdf	)
 
 
